@@ -1,1 +1,12 @@
 I am a recent graduate with a degree in Bachelor of Technology with a specialization in computer science from Raghu institute of Technology with a aggregate CGPA of 8.88.
+
+Personality Prediction Using Machine Learning 
+Personality prediction using machine learning (ML) is an emerging field that analyzes data to assess
+ someone's personality traits. It has the potential to revolutionize various fields like recruitment, education,
+ and marketing. Machine learning algorithms can process information from surveys, social media activity,
+ and even writing styles to predict personality characteristics like openness, conscientiousness,
+ extroversion, agreeableness, and neuroticism (OCEAN model). Personality prediction, a crucial area in
+ psychology, has garnered significant attention in recent years with the advent of machine learning
+ techniques. The proposed systems are Logistic regression, Random Forest, Decision Tree, Neural
+ Networks. Based on the OCEAN MODEL the model predicts the personalities like dependable, serious,
+ lively, extraverted. 
